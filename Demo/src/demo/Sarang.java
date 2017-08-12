@@ -6,6 +6,7 @@ public class Sarang {
 		
 		System.out.println("Omkar");
 		System.out.println("Sarang");
+		System.out.println("vijay");
 		
 	}
 
